@@ -62,11 +62,6 @@ The goal of this dashboard is to help business owners or managers make data-driv
 
     Even distribution across categories (Classic, Chicken, Supreme, Veggie)
 
-📁 Files Included
-
-    Dashboard Screenshot (b8123d09.png) – Full visual of the Excel dashboard
-
-    Pivot Tables (46ec1a3.png) – Raw pivot charts and filters used in Excel
 
 🛠️ Tools Used
 
